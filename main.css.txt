@@ -2,3 +2,8 @@
 	height: 20px;
 	weight: 20px;
 }
+
+.block {
+	position: relative;
+	background: red;
+}
